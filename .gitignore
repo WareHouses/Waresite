@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+### semantic ###
+
+/src/semantic/dist/*
+/src/semantic/tasks/*
